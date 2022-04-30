@@ -1,11 +1,5 @@
 # 'Lastige stakeholders' management
 
-Aangemaakt: #2022-04-30 09:19
-
----
-## Motivatie
-Deze week is er twee keer gevraagd hoe ik al PO omga met lastig lastige stakeholders. M'n antwoorden waren lang niet altijd even duidelijk dus besloot ik er iets over te schrijven om voor mezelf en misschien andere hier meer duidelijkheid over te scheppen. 
-
 ## Lastige stakeholder
 Een stakeholder is elke betrokkene, die invloed kan hebben op het succes van je product. Met 'lastige stakeholder' bedoelen we nu natuurlijk die interne collega die je het als Product Owner, lastiger kan maken. Maar ook bij een andere partij, waarmee je bijvoorbeeld een integratie probeert te doen, kan zo'n lastige stakeholder zitten.
 
@@ -23,7 +17,7 @@ Het zijn allemaal geldige antwoorden en zorgen. Hier heeft een Product Owner een
 
 ### Transparantie
 Als het bijvoorbeeld om levensvatbaarheid van het product gaat, geef dan inzicht in hoe je toch op korte termijn waarde uit het product kan halen. Transparant zijn is essentieel. De backlog behoort, voor stakeholders inzichtelijk te zijn in taal die zowel business en development begrijpt. Dit is inclusief de commerciële waarde beschrijvingen op feature niveau, sprint doelen, en de productvisie.
-Na elke sprintplanning bespreek je met je stakeholders welke features prioriteit hebben gekregen en vooral waarom die prioriteit hebben gekregen en andere dus dan niet. Dit is een mooi moment om even na te gaan of stakeholders je keuze hebben begrepen. 
+Na elke sprintplanning bespreek je met je stakeholders welke features prioriteit hebben gekregen en vooral waarom die prioriteit hebben gekregen en andere dus dan niet. Dit is een mooi moment om even na te gaan of stakeholders je keuze hebben begrepen.
 Als een aanvraag een lange tijd open in de backlog staat, is dit nu ook niet echt een discussie meer. Kennelijk is de commerciële waarde te laag ten opzichte van de investering die gedaan moet worden. Misschien moeten we ons zelfs afvragen of de aanvraag uit de backlog gehaald moet worden. Overleg dit dan met de stakeholders van de aanvraag. Dit hoort dus ook bij transparant zijn.
 ### Backlog kwaliteit
 Als er opleveringen gedaan worden, die niet gelijk staan aan de verwachting is dit vaak te wijten aan niet goed beschreven backlog items. Tijdens refinement en planning moet dit getoets worden. Is het voor het team volledig duidelijk wat de business wil en waarom is het belangrijk. Een uitkomst is dat dit niet het geval is, en dat opnieuw de business er bij gehaald moet worden om dit te verduidelijken. De backlog items horen dus van een hoge kwaliteit te zijn om features naar wens op te leveren.
